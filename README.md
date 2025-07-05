@@ -1,6 +1,6 @@
 # Chatbot UI by Thuto Mpshe
 
-> A modern AI chat interface fully set up, customized, and hosted by [Thuto Thabang Mpshe](https://github.com/ThutoCodes) — built for real-world use cases and personal learning.
+> A modern AI chat interface set up, customized, and hosted by [Thuto Thabang Mpshe](https://github.com/ThutoCodes) — built for real-world use cases and personal learning.
 
 ![Chatbot UI Screenshot](./public/readme/screenshot.png)
 
